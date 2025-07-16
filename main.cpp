@@ -4,6 +4,8 @@
 
 int main(){
    
+    int e;
+    e = 10;
 
     return 0;
 }
